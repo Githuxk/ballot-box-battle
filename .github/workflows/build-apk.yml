@@ -58,5 +58,4 @@ jobs:
         with:
           name: build-log
           path: build.log
-EOF
           
